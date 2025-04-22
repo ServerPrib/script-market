@@ -38,7 +38,7 @@ Dengan ini, kami memberikan peringatan bahwa pelanggaran hak cipta atas proyek i
 return [
     'api' => [
         'base_url' => 'https://forestapi.web.id',
-        'api_key'  => 'YOUR_SECRET_KEY',
+        'api_key'  => 'sk-d0a9b2qhtsiexs',
     ],
     'product' => [
         'title'        => 'Script Bot WhatsApp',
